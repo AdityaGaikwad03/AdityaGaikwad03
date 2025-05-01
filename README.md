@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gaikwadaditya0309@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1cODRDJG8NFOpWVCfRIW4FD8kCsaAVZpWxBI6Gn4fYkU/edit?usp=drive_link](https://docs.google.com/document/d/1cODRDJG8NFOpWVCfRIW4FD8kCsaAVZpWxBI6Gn4fYkU/edit?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:9a87ea38-e0d5-4ff9-baca-ecde29fafea4)
 
 - ⚡ Fun fact **I think i am funny**
 
