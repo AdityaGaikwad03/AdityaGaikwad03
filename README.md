@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aditya_gai7950" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_gai7950?logo=twitter&style=for-the-badge" alt="aditya_gai7950" /></a> </p>
 
-- 🌱 I’m currently learning **B.SC. Computer Science**
+- 🌱 I’m a recent graduate in **B.SC. Computer Science (B.Sc.CS)** and pursuing a **Master's in Computer Applications (MCA)**
 
 - 👨‍💻 All of my projects are available at [https://gaikwadaditya.netlify.app/](https://gaikwadaditya.netlify.app/)
 
