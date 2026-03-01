@@ -9,7 +9,7 @@
 
 - 🌱 I’m a recent graduate in **B.SC. Computer Science (B.Sc.CS)** and pursuing a **Master's in Computer Applications (MCA)**
 
-- 👨‍💻 All of my projects are available at [(https://react-portfolio-zeta-ruby.vercel.app/)]
+- 👨‍💻 All of my projects are available at https://adityagaikwad03.vercel.app/
 
 - 💬 Ask me about **react, Web_technology, Computer Science**
 
